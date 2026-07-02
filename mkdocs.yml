@@ -14,6 +14,9 @@ nav:
       - ADRs:
           - 0001 - Record Architecture Decisions: architecture/adr/0001-record-architecture-decisions.md
           - 0002 - Repository Structure: architecture/adr/0002-repository-structure.md
+          - 0003 - Documentation Standards: architecture/adr/0003-documentation-standards.md
+  - Templates:
+      - Standard Document: templates/standard_document_template.md
 
 plugins:
   - search
@@ -23,3 +26,19 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - plantuml_markdown:
+      server: http://www.plantuml.com/plantuml
+
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.magiclink
