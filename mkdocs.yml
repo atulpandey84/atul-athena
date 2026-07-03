@@ -13,12 +13,14 @@ nav:
       - Product Requirements Document: specifications/PRODUCT_REQUIREMENTS_DOCUMENT.md
       - Software Requirements Specification: specifications/SOFTWARE_REQUIREMENTS_SPECIFICATION.md
   - Architecture:
+      - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
           - 0001 - Record Architecture Decisions: architecture/adr/0001-record-architecture-decisions.md
           - 0002 - Repository Structure: architecture/adr/0002-repository-structure.md
           - 0003 - Documentation Standards: architecture/adr/0003-documentation-standards.md
           - 0004 - Product Requirements Baseline: architecture/adr/0004-product-requirements-baseline.md
           - 0005 - Software Requirements Baseline: architecture/adr/0005-software-requirements-baseline.md
+          - 0006 - High Level Architecture Baseline: architecture/adr/0006-high-level-architecture-baseline.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
