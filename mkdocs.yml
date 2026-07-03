@@ -17,6 +17,7 @@ nav:
       - Memory Framework Specification: specifications/MEMORY_FRAMEWORK_SPECIFICATION.md
       - Workflow Engine Specification: specifications/WORKFLOW_ENGINE_SPECIFICATION.md
       - Debate Engine Specification: specifications/DEBATE_ENGINE_SPECIFICATION.md
+      - Consensus Engine Specification: specifications/CONSENSUS_ENGINE_SPECIFICATION.md
   - Architecture:
       - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
@@ -31,6 +32,7 @@ nav:
           - 0009 - Memory Framework Design: architecture/adr/0009-memory-framework-design.md
           - 0010 - Workflow Engine Design: architecture/adr/0010-workflow-engine-design.md
           - 0011 - Debate Engine Design: architecture/adr/0011-debate-engine-design.md
+          - 0012 - Consensus Engine Design: architecture/adr/0012-consensus-engine-design.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
