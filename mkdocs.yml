@@ -14,6 +14,7 @@ nav:
       - Software Requirements Specification: specifications/SOFTWARE_REQUIREMENTS_SPECIFICATION.md
       - Agent Framework Specification: specifications/AGENT_FRAMEWORK_SPECIFICATION.md
       - Knowledge Framework Specification: specifications/KNOWLEDGE_FRAMEWORK_SPECIFICATION.md
+      - Memory Framework Specification: specifications/MEMORY_FRAMEWORK_SPECIFICATION.md
   - Architecture:
       - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
@@ -25,6 +26,7 @@ nav:
           - 0006 - High Level Architecture Baseline: architecture/adr/0006-high-level-architecture-baseline.md
           - 0007 - Agent Framework Design: architecture/adr/0007-agent-framework-design.md
           - 0008 - Knowledge Framework Design: architecture/adr/0008-knowledge-framework-design.md
+          - 0009 - Memory Framework Design: architecture/adr/0009-memory-framework-design.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
