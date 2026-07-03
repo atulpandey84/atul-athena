@@ -21,6 +21,7 @@ nav:
       - Document Engine Specification: specifications/DOCUMENT_ENGINE_SPECIFICATION.md
       - Diagram Engine Specification: specifications/DIAGRAM_ENGINE_SPECIFICATION.md
       - Prompt Framework Specification: specifications/PROMPT_FRAMEWORK_SPECIFICATION.md
+      - Tool Framework Specification: specifications/TOOL_FRAMEWORK_SPECIFICATION.md
   - Architecture:
       - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
@@ -39,6 +40,7 @@ nav:
           - 0013 - Document Engine Design: architecture/adr/0013-document-engine-design.md
           - 0014 - Diagram Engine Design: architecture/adr/0014-diagram-engine-design.md
           - 0015 - Prompt Framework Design: architecture/adr/0015-prompt-framework-design.md
+          - 0016 - Tool Framework Design: architecture/adr/0016-tool-framework-design.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
