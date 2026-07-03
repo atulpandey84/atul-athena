@@ -12,6 +12,7 @@ nav:
       - Master Engineering Specification: specifications/MASTER_ENGINEERING_SPECIFICATION.md
       - Product Requirements Document: specifications/PRODUCT_REQUIREMENTS_DOCUMENT.md
       - Software Requirements Specification: specifications/SOFTWARE_REQUIREMENTS_SPECIFICATION.md
+      - Agent Framework Specification: specifications/AGENT_FRAMEWORK_SPECIFICATION.md
   - Architecture:
       - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
@@ -21,6 +22,7 @@ nav:
           - 0004 - Product Requirements Baseline: architecture/adr/0004-product-requirements-baseline.md
           - 0005 - Software Requirements Baseline: architecture/adr/0005-software-requirements-baseline.md
           - 0006 - High Level Architecture Baseline: architecture/adr/0006-high-level-architecture-baseline.md
+          - 0007 - Agent Framework Design: architecture/adr/0007-agent-framework-design.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
