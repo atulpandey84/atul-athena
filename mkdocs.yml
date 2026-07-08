@@ -24,6 +24,7 @@ nav:
       - Tool Framework Specification: specifications/TOOL_FRAMEWORK_SPECIFICATION.md
       - API Framework Specification: specifications/API_FRAMEWORK_SPECIFICATION.md
       - Reference Implementation Specification: specifications/REFERENCE_IMPLEMENTATION_SPECIFICATION.md
+      - Production Deployment Specification: specifications/PRODUCTION_DEPLOYMENT_SPECIFICATION.md
   - Architecture:
       - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
@@ -45,6 +46,7 @@ nav:
           - 0016 - Tool Framework Design: architecture/adr/0016-tool-framework-design.md
           - 0017 - API Framework Design: architecture/adr/0017-api-framework-design.md
           - 0018 - Reference Implementation Baseline: architecture/adr/0018-reference-implementation-baseline.md
+          - 0019 - Production Deployment Strategy: architecture/adr/0019-production-deployment-strategy.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
