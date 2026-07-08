@@ -26,6 +26,7 @@ nav:
       - Reference Implementation Specification: specifications/REFERENCE_IMPLEMENTATION_SPECIFICATION.md
       - Production Deployment Specification: specifications/PRODUCTION_DEPLOYMENT_SPECIFICATION.md
       - Testing Specification: specifications/TESTING_SPECIFICATION.md
+      - Operations Specification: specifications/OPERATIONS_SPECIFICATION.md
   - Architecture:
       - High Level Architecture: architecture/HIGH_LEVEL_ARCHITECTURE.md
       - ADRs:
@@ -49,6 +50,7 @@ nav:
           - 0018 - Reference Implementation Baseline: architecture/adr/0018-reference-implementation-baseline.md
           - 0019 - Production Deployment Strategy: architecture/adr/0019-production-deployment-strategy.md
           - 0020 - Testing Strategy: architecture/adr/0020-testing-strategy.md
+          - 0021 - Operations Design: architecture/adr/0021-operations-design.md
   - Templates:
       - Standard Document: templates/standard_document_template.md
 
